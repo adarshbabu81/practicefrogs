@@ -1,0 +1,114 @@
+{
+  "paths": [
+    {
+      "id": "learn-guitar-21",
+      "title": "Learn guitar (21 days)",
+      "subtitle": "Take the easiest lesson of the French course",
+      "likes": "12k",
+      "durationDays": 21,
+      "iconName": "person",
+      "progress": {
+        "day": 7,
+        "totalDays": 21,
+        "value": 0.33
+      },
+      "tasks": [
+        {
+          "dayLabel": "Day 1",
+          "title": "Focus on relieving things",
+          "description": "Drink lime warm water earlier, try out meditation or yoga. Drink lime warm water earlier, try out meditation or yoga."
+        },
+        {
+          "dayLabel": "Day 2",
+          "title": "Focus on relieving things",
+          "description": "Drink lime warm water earlier, try out meditation or yoga. Drink lime warm water earlier, try out meditation or yoga."
+        },
+        {
+          "dayLabel": "Day 3",
+          "title": "Focus on breathing exercises",
+          "description": "Practice deep breathing for 10 minutes and maintain a calm rhythm."
+        }
+      ]
+    },
+    {
+      "id": "yoga-basics-30",
+      "title": "Yoga basics (30 days)",
+      "subtitle": "Take the easiest lesson of the French course",
+      "likes": "12k",
+      "durationDays": 30,
+      "iconName": "celebration",
+      "progress": {
+        "day": 12,
+        "totalDays": 30,
+        "value": 0.4
+      },
+      "tasks": [
+        {
+          "dayLabel": "Day 1",
+          "title": "Set your intention",
+          "description": "Pick a consistent time and space for practice. Do 3 minutes of mindful breathing, then a gentle stretch."
+        },
+        {
+          "dayLabel": "Day 2",
+          "title": "Sun salutations (easy pace)",
+          "description": "Practice 3–5 rounds of a slow sun salutation. Focus on smooth inhales and exhales rather than depth."
+        },
+        {
+          "dayLabel": "Day 3",
+          "title": "Hips + hamstrings",
+          "description": "Hold a forward fold and a seated stretch for 30–45 seconds each. Keep your spine long and avoid pushing into pain."
+        },
+        {
+          "dayLabel": "Day 4",
+          "title": "Balance basics",
+          "description": "Try tree pose for 3 rounds per side. Use a wall or chair for support and keep your gaze steady."
+        },
+        {
+          "dayLabel": "Day 5",
+          "title": "Recovery flow",
+          "description": "Do a short restorative sequence: child's pose, cat-cow, and a 2-minute savasana. Notice how your body feels."
+        }
+      ]
+    },
+    {
+      "id": "french-starter-90",
+      "title": "French starter (90 days)",
+      "subtitle": "Take the easiest lesson of the French course",
+      "likes": "12k",
+      "durationDays": 21,
+      "iconName": "person",
+      "progress": {
+        "day": 20,
+        "totalDays": 90,
+        "value": 0.22
+      },
+      "tasks": [
+        {
+          "dayLabel": "Day 1",
+          "title": "Greetings + pronunciation",
+          "description": "Learn 5 greetings and say them out loud. Record yourself once and compare to the audio."
+        },
+        {
+          "dayLabel": "Day 2",
+          "title": "Numbers 1–20",
+          "description": "Practice counting 1–20 twice. Then write the numbers 1–10 from memory."
+        },
+        {
+          "dayLabel": "Day 3",
+          "title": "Basic introductions",
+          "description": "Build 3 short sentences: name, where you're from, and how you're doing. Say them without reading."
+        },
+        {
+          "dayLabel": "Day 4",
+          "title": "Common phrases",
+          "description": "Memorize 6 phrases (please/thanks/sorry/excuse me). Use each one in a simple sentence."
+        },
+        {
+          "dayLabel": "Day 5",
+          "title": "Mini review",
+          "description": "Review days 1–4. Do a quick self-test: speak your greetings and numbers, then write 3 intro sentences."
+        }
+      ]
+    }
+  ]
+}
