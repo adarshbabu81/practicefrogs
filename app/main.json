@@ -7,7 +7,7 @@
       "likes": "12k",
       "durationDays": 21,
       "iconName": "person",
-      "image":"./assets/track1.jpg",
+      "image":"https://raw.githubusercontent.com/adarshbabu81/practicefrogs/refs/heads/master/app/assets/track1.jpg",
       "progress": {
         "day": 7,
         "totalDays": 21,
@@ -38,7 +38,7 @@
       "likes": "12k",
       "durationDays": 30,
       "iconName": "celebration",
-      "image":"./assets/track1.jpg",
+      "image":"https://raw.githubusercontent.com/adarshbabu81/practicefrogs/refs/heads/master/app/assets/track1.jpg",
       "progress": {
         "day": 12,
         "totalDays": 30,
